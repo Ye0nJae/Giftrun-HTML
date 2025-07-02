@@ -1,0 +1,41 @@
+.primary-button-container {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.primary-button-button {
+  color: #08f651;
+  font-size: 18px;
+  align-self: center;
+  transition: 0.3s;
+  font-family: "Pretendard-SemiBold";
+  font-weight: 600;
+  padding-top: 12px;
+  border-width: 0px;
+  padding-left: 32px;
+  border-radius: var(--dl-layout-radius-radius6);
+  padding-right: 32px;
+  padding-bottom: 12px;
+  text-transform: none;
+  text-decoration: none;
+  background-color: rgb(108, 99, 255);
+}
+ 
+.primary-button-button:hover {
+  background-color: var(--dl-color-purple-900);
+}
+ 
+.primary-button-button:active {
+  background-color: var(--dl-color-purple-1000);
+}
+ 
+.primary-buttonroot-class-name {
+  left: 258px;
+  bottom: 0px;
+  z-index: 100;
+  position: static;
+  align-self: center;
+}
