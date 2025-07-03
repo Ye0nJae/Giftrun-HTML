@@ -385,7 +385,7 @@
  
 .home-hero {
   width: 100%;
-  height: 617px;
+  height: 666px;
   display: flex;
   padding: var(--dl-layout-space-doubleunit);
   z-index: 100;
@@ -393,7 +393,7 @@
   max-width: 1110px;
   align-self: center;
   align-items: center;
-  padding-top: 26px;
+  padding-top: 28px;
   flex-direction: row;
   justify-content: center;
 }
@@ -405,13 +405,14 @@
   display: flex;
   position: relative;
   margin-top: var(--dl-layout-space-tripleunit);
-  align-items: flex-start;
+  align-items: center;
   flex-direction: column;
+  justify-content: center;
 }
  
 .home-image3 {
-  width: 295px;
-  height: auto;
+  width: auto;
+  height: 664px;
   object-fit: cover;
 }
  
@@ -440,6 +441,7 @@
   width: 100%;
   height: 233px;
   display: flex;
+  z-index: 0;
   align-items: center;
   flex-direction: row;
   justify-content: center;
