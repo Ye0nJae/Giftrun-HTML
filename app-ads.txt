@@ -1,5 +1,5 @@
 google.com, pub-1436033340988538, DIRECT, f08c47fec0942fa0
-pangleglobal.com, Account ID, DIRECT
+pangleglobal.com, 5032862, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 app-stock.com, 384491, RESELLER
 sharethrough.com, DQQogebZ, RESELLER, d53b998a7bd4ecd2
