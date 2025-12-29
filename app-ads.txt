@@ -1,3 +1,4 @@
+mintegral.com, 61299, DIRECT, 0aeed750c80d6423
 google.com, pub-1436033340988538, DIRECT, f08c47fec0942fa0
 facebook.com, 4259854700970827, DIRECT, c3e20eee3f780d68
 facebook.com, 1768321730534695, DIRECT, c3e20eee3f780d68
