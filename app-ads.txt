@@ -3,6 +3,17 @@ facebook.com, 4259854700970827, DIRECT, c3e20eee3f780d68
 facebook.com, 1768321730534695, DIRECT, c3e20eee3f780d68
 pangleglobal.com, 5032862, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
+mintegral.com, 61299, DIRECT, 0aeed750c80d6423
+criteo.com, TERO1F, RESELLER, 35d5010d7789b49d
+criteo.com, TVX1JK, RESELLER, 35d5010d7789b49d
+themediagrid.com, TERO1F, RESELLER, 35d5010d7789b49d
+themediagrid.com, TVX1JK, RESELLER, 35d5010d7789b49d
+cgnl.io, 7000, RESELLER
+cignal.io, 7000, RESELLER
+carambo.la, 914730833, RESELLER
+openx.com, 537140323, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 159626, RESELLER, 5d62403b186f2ace
+pubmatic.com, 166836, RESELLER, 5d62403b186f2ace
 vungle.com, 691bfd4c183f5b55a8859e28, DIRECT, c107d686becd2d77
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
 Contextweb.com,562852,RESELLER,89ff185a4c4e857c
