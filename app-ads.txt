@@ -1724,3 +1724,5 @@ sharethrough.com, UvcAx8IL, RESELLER, d53b998a7bd4ecd2
 targetbetter.com, 82228, RESELLER
 triplelift.com, 14716, RESELLER, 6c33edb13117fd86
 zetaglobal.net, 630, RESELLER
+indexexchange.com, 215209, reseller, 50b1c356f2c5c8fc
+playdigo.com, 2010, reseller
